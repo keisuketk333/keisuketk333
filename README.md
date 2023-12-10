@@ -1,5 +1,5 @@
 # Hi there 👋
-I am currently a graduate student at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) in Osaka, Japan. I am interested in time series analysis and application development. Currently, I am studying data mining in web, manufacturing, and nursing care business to realize a more convenient society.
+I am currently a graduate student at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/) in Osaka, Japan. I am interested in time series analysis and application development. Currently, I am studying data mining in web, manufacturing, and nursing care business to realize a more convenient society.In addition, as a member (former dx-team lead) of [GDSC OSAKA](https://gdsc-osaka.jp/), I enjoy developing web applications.
 
 ## Get in touch 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/keisuketk333)
